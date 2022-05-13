@@ -17,12 +17,15 @@
     font-family: "Calibri light", sans-serif;
     font-weight: bold;
     font-size: large;
+    background-image: url("bg.png");
+    overflow-y: scroll;
   }
   
   .header {
     background-color: #0e7512;
     color: #ffffff;
     padding: 15px;
+    background: linear-gradient(140deg, #0e7512, #0fb817);
   }
   
   .menu ul {
@@ -45,7 +48,7 @@
     cursor: pointer;
     border: 3px solid #00ff0458;
     box-shadow: 0 0 60px #ffea0073;
-    background: linear-gradient(140deg, #0044ffab, #ca00fdb2);
+    background: linear-gradient(140deg, #0044ffab, #0fb817);
   }
   
   .aside {
