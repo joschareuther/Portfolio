@@ -143,6 +143,10 @@
     text-align: right;
     background-color: gray;
 }
+#Fotos {
+    text-align: left;
+    background-color: #ff0d0058;
+}
   
 .footer {
     position: fixed;
