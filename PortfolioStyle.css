@@ -138,6 +138,11 @@
     text-align: right;
     background-color: #0fb817;
 }
+
+#YT {
+    text-align: right;
+    background-color: gray;
+}
   
 .footer {
     position: fixed;
